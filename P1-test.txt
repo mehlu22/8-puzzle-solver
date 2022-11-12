@@ -1,0 +1,1 @@
+setState "b12 345 678" printState move "up" move "left" setState printState "1b2 345 678" move "up"
